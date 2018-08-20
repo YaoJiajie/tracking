@@ -1,5 +1,7 @@
 # cross_road_tracking
 
+Tracking persons and vehicles
+
 ## Compile SSD Caffe
 
     $ git clone https://github.com/weiliu89/caffe.git
