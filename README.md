@@ -1,6 +1,6 @@
-# cross_road_tracking
+Detect & Track
 
-Tracking persons and vehicles
+Track persons and vehicles
 
 ## Compile SSD Caffe
 
